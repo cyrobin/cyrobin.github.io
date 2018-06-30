@@ -1,6 +1,6 @@
 # Site settings
-name: Cyril Robin
-title: Welcome to Cyrobin's homepage!
+name: "Cyril Robin"
+title: "Welcome to Cyrobin's homepage!"
 description: "Lifelong Learner"
 url: "cyrobin.github.io"
 
@@ -48,4 +48,3 @@ favicon_img_path: "imgs/favicon.ico"
 # Build settings
 markdown: kramdown
 permalink: pretty
->>>>>>> Import from frontcover Jekyll type + quick adaptation
