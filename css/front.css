@@ -35,7 +35,9 @@ h1 {
 h3 {
     color: white;
     padding-bottom: 20px;
+    font-size: 2em;
     font-weight: thin;
+    font-style: italic;
 }
 .content {
     padding-top: 100px;
